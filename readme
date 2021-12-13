@@ -1,0 +1,5 @@
+把所有文件搞到一个目录里面
+
+然后python3 main.py
+
+如果缺少库的话就pip install
